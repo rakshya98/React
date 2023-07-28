@@ -1,0 +1,23 @@
+*{
+    margin: 0px;;
+    padding: 0px;
+    /* color:green; */
+    font-size: large;
+  }
+  .navbar ul{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    height: 60px;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+  }
+  ul,li{
+    list-style: none;
+    display: inline-block;
+    
+  }
+  input{
+    color: black;
+  }
